@@ -122,6 +122,13 @@
 
 #Pyladies no Piauí:
 
+- city: Parnaíba - PI
+  image: /images/locais/pyladies-parnaiba.png
+  twitter: https://www.instagram.com/pyladiesphb/
+  facebook: https://www.facebook.com/pyLadiesPHB/
+  github: https://github.com/pyladiesphb
+  email: parnaiba@pyladies.com
+
 - city: Teresina - PI
   image: /images/locais/pyladies-teresina.png
   facebook: https://www.facebook.com/PyLadiesTeresina/
