@@ -215,9 +215,11 @@
   email: campinas@pyladies.com
 
 - city: Ribeirão Preto - SP
-  image: /images/locais/pyladies-rp.png
+  image: /images/locais/pyladies-ribeirao-preto.png
   facebook: https://www.facebook.com/pyladiesrp
   email: pyladiesrp@gmail.com
+  instagram: https://www.instagram.com/pyladiesrp/
+  github: https://github.com/pyladies-rp/
   url: https://pyladies-rp.github.io/
 
 - city: São Carlos - SP
