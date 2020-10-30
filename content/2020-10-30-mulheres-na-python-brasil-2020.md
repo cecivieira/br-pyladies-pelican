@@ -29,7 +29,7 @@ O evento terá em sua abertura a mesa redonda das PyLadies, tendo início na seg
 ## Mesa redonda Pizza Ao Vivo: divulgação científica
 
 No dia 4 novembro de 2020, às 10:30 da manhã teremos mais uma mesa redonda integrada exclusivamente por mulheres!
-Nesta edição especial ao Vivo do **[Pizza de Dados](https://twitter.com/pizzadedados)**, as anfitriãs **[Jessica Temporal](https://twitter.com/jesstemporal)** e **[Letícia Portella](https://twitter.com/leleportella)** terão a presença de **[Carla Vieira](https://twitter.com/carlaprvieira)** do canal **[E A.I., Carla](https://twitter.com/canaleaicarla)**, **[Mila Laranjeira](https://twitter.com/milalaranjeira)** e **[Vivi Mota](https://twitter.com/avivimota)** do canal **[Peixe Babel](https://twitter.com/canalpeixebabel)** para discutir sobre a divulgação científica e Ciência de Dados no Brasil!
+Nesta edição especial ao Vivo do **[Pizza de Dados](https://twitter.com/pizzadedados){:target="_blank"}**, as anfitriãs **[Jessica Temporal](https://twitter.com/jesstemporal){:target="_blank"}** e **[Letícia Portella](https://twitter.com/leleportella){:target="_blank"}** terão a presença de **[Carla Vieira](https://twitter.com/carlaprvieira){:target="_blank"}** do canal **[E A.I., Carla](https://twitter.com/canaleaicarla){:target="_blank"}**, **[Mila Laranjeira](https://twitter.com/milalaranjeira){:target="_blank"}** e **[Vivi Mota](https://twitter.com/avivimota){:target="_blank"}** do canal **[Peixe Babel](https://twitter.com/canalpeixebabel){:target="_blank"}** para discutir sobre a divulgação científica e Ciência de Dados no Brasil!
 
 
 ## Palestras
